@@ -3,7 +3,7 @@
 - 🌱 I’m currently learning AWS Cloud Engineering
 - 💞️ I’m looking to collaborate on cloud projects
 - 📫 How to reach me kodiokeke@gmail.com
-- 😄 Pronouns: He
+- 😄 Pronouns: Private
 - ⚡ Fun fact: I am Fun to work with
 
 <!---
